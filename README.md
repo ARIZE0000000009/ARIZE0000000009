@@ -79,21 +79,25 @@ Building scalable applications, exploring intelligent systems, and turning ideas
 
 <div align="center">
 
-<img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARIZE0000000009&theme=github_dark" />
-
-<img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARIZE0000000009&theme=github_dark" />
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARIZE0000000009&theme=github_dark" width="380" alt="GitHub Stats"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARIZE0000000009&theme=github_dark" width="380" alt="Top Languages"/>
+</td>
+</tr>
+</table>
 
 </div>
-
 ---
 
 ## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ARIZE0000000009&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ARIZE0000000009&theme=github-dark-blue&hide_border=true" width="480" alt="GitHub Contribution Streak"/>
 
 </div>
 
