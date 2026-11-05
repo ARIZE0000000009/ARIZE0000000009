@@ -1,5 +1,13 @@
 <div align="center">
   <img
+    src="./github-banner.png"
+    width="100%"
+    alt="Piyush Kumar - Full Stack Java Developer"
+  />
+</div>
+
+<br/><div align="center">
+  <img
     src="https://raw.githubusercontent.com/ARIZE0000000009/ARIZE0000000009/main/github-banner.png"
     width="100%"
     alt="Piyush Kumar - Full Stack Java Developer"
