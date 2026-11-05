@@ -1,34 +1,180 @@
-<h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
-<h3 align="center">Full Stack Java Developer | Building scalable, secure, and efficient applications | Passionate about clean code and continuous learning.</h3>
+<!-- ================= PROFILE HEADER ================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arize0000000009&label=Profile%20views&color=0e75b6&style=flat" alt="arize0000000009" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arize0000000009" alt="arize0000000009" /></a> </p>
+# Piyush Kumar
 
-- 🔭 I’m currently working on **Redis-powered applications and Retrieval-Augmented Generation (RAG) systems.**
+### Java at the core. Engineering without boundaries.
 
-- 🌱 I’m currently learning **Java & Spring Boot ecosystem. React, modern frontend frameworks and backend engineering, REST APIs and AI integration.**
+**Full Stack Java Developer | Backend Engineering | AI Integration**
 
-- 👯 I’m looking to collaborate on **Full-stack web applications.**
+Building scalable applications, exploring intelligent systems, and turning ideas into meaningful software.
 
-- 🤝 I’m looking for help with **Advanced system design and backend architecture.**
+<a href="https://github.com/ARIZE0000000009">
+  <img src="https://komarev.com/ghpvc/?username=ARIZE0000000009&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</a>
 
-- 💬 Ask me about **Java, OOP and Full Stack Development.**
+<a href="mailto:piyushkumar3672@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- 📫 How to reach me **piyushkumar3672@gmail.com**
+<a href="https://github.com/ARIZE0000000009?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github"/>
+</a>
 
-- ⚡ Fun fact **I know how to code**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pp]]]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pp]]]" height="30" width="40" /></a>
+---
+
+<!-- ================= ABOUT ME ================= -->
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Redis-powered applications and RAG systems**
+- 🌱 Exploring **Spring Boot, System Design, AI Integration and Backend Architecture**
+- 👯 Looking to collaborate on **Java, Full Stack and AI-powered applications**
+- 🤝 Interested in learning more about **Scalable Systems and Software Architecture**
+- 💬 Ask me about **Java, OOP, React, Vue.js and GSAP**
+- ⚡ I believe great software starts with strong fundamentals and continuous improvement.
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### Frontend Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arize0000000009&show_icons=true&locale=en&layout=compact" alt="arize0000000009" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,gsap" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arize0000000009&show_icons=true&locale=en" alt="arize0000000009" /></p>
+### Backend Development
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arize0000000009&" alt="arize0000000009" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,git,github,vscode,postman" />
+</p>
+
+### Currently Exploring
+
+`Spring Boot` `Redis` `RAG Systems` `System Design` `AI Integration`
+
+---
+
+<!-- ================= GITHUB ANALYTICS ================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ARIZE0000000009&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARIZE0000000009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ARIZE0000000009&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARIZE0000000009&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ARIZE0000000009&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<!-- ================= FEATURED PROJECTS ================= -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ARIZE0000000009/valentine-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARIZE0000000009&repo=valentine-project&theme=tokyonight&hide_border=true" alt="Valentine Project"/>
+</a>
+
+</div>
+
+**More projects coming soon!**
+
+Explore all my repositories:
+
+<a href="https://github.com/ARIZE0000000009?tab=repositories">View All Repositories →</a>
+
+---
+
+<!-- ================= CURRENT FOCUS ================= -->
+
+## 🎯 Current Focus
+
+| Area | Focus |
+|---|---|
+| Java Development | Core Java, OOP, Spring Boot |
+| Backend Engineering | REST APIs, System Design |
+| Databases | MySQL, MongoDB, Redis |
+| Frontend | React, Vue.js, GSAP |
+| AI Engineering | RAG Systems, AI Integration |
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:piyushkumar3672@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ARIZE0000000009">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Think deeply. Code precisely. Build relentlessly."
+
+**Thanks for visiting my profile!**
+
+⭐ If you find something interesting, feel free to explore my repositories.
+
+</div>
