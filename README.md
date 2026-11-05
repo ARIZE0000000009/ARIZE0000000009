@@ -6,13 +6,7 @@
 
 <br/>
 
-<div align="center">
-  <img
-    src="./github-banner.png"
-    width="100%"
-    alt="Piyush Kumar - Full Stack Java Developer"
-  />
-</div>
+
 
 
 
