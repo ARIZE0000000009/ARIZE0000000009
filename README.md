@@ -79,9 +79,11 @@ Building scalable applications, exploring intelligent systems, and turning ideas
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ARIZE0000000009&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARIZE0000000009&theme=github_dark" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARIZE0000000009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARIZE0000000009&theme=github_dark" />
 
 </div>
 
@@ -97,15 +99,7 @@ Building scalable applications, exploring intelligent systems, and turning ideas
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARIZE0000000009&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
 
 ## 🏆 GitHub Achievements
 
